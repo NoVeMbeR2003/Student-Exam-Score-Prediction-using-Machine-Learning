@@ -46,5 +46,5 @@ This project predicts student exam scores based on study habits and personal fac
 
 Srijit Bhattacharjee
 LinkedIn: https://www.linkedin.com/in/srijit-bhattacharjee
-GitHub: (your GitHub link)
+
 
